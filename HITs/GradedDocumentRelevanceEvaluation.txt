@@ -1,0 +1,40 @@
+Document Relevance Evaluation
+
+Instructions
+
+Evaluate the relevance of a document to the given topic. A document is 
+relevant if it would be useful if you were writing a report on such topic. 
+Each document should be judged on its own merits. That is, a document 
+is still relevant even if it is the thirtieth document you have seen with 
+the same information.
+
+Tips
+
+- Payment is based on quality of the work completed. Please follow the 
+  instructions.
+- Be consistent in your judgments.
+- A document should not be judged as relevant or irrelevant based only 
+  on the title of the document. You must read the document.
+
+Task
+
+Please evaluate the relevance of the following document about [$TOPIC$]. 
+
+[$SHOW_DOCUMENT$]
+
+Please rate the above document according to its relevance to $TOPIC$ as 
+follows. Note that the task is about how relevant to the topic the 
+document is.
+
+() Excellent. The document discusses the themes of the topic exhaustively.
+() Good. The document contains information but the presentation is not 
+   exhaustive or there might be a better document.
+() Fair. The document only points to the topic. It does not contain more 
+   information than the topic description or portions of the text are 
+   inaccurate.
+() Not relevant. The document is not good because it does not contain any 
+   relevant information.
+
+Please justify your answer. We appreciate your comments.
+
+[$InputBox$]

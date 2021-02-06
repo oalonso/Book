@@ -1,0 +1,21 @@
+Search Engine Relevance Evaluation
+
+Please look at this web page and answer how relevant it is to the query.
+
+Task
+
+How relevant is the following webpage to the query [$QUERY$].
+
+[$SHOW_WEBPAGE$]
+
+() Perfect. Exactly and completely what the user wanted, there could be no 
+    better result.
+() Excellent. Exactly what the user wanted, but there may be other results 
+    that as good or better
+() Good. Mostly what the user wanted, but not exactly.
+() Fair. Loosely related to what the user wanted.
+() Bad. Certainly not what the user wanted
+
+Please let us know if you have any comments.
+
+[$InputBox$]

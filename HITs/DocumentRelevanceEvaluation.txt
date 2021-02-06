@@ -1,0 +1,35 @@
+Document Relevance Evaluation
+
+Instructions
+
+Evaluate the relevance of a document to the space program topic. A document 
+is relevant if it would be useful if you were writing a report on the space 
+program topic. Each document should be judged on its own merits. That is, a 
+document is still relevant even if it is the thirtieth document you have 
+seen with the same information.
+
+Tips
+- Payment based on quality of the work completed. Please follow the 
+  instructions.
+- Be consistent in your judgments.
+- A document should not be judged as relevant or irrelevant based only on 
+  the title of the document. You must read the document
+
+Task
+
+Please evaluate the relevance of the following document about the space 
+program topic. To be relevant, a document must discuss the goals or plans 
+of a space program or space project and identify the organization(s) 
+sponsoring the program. The space program is a coherent set of initiatives 
+to exploit outer space. The space project is a specific mission to exploit 
+outer space.
+
+[$SHOW_DOCUMENT$]
+
+Please rate the above document according to its relevance to the space
+program topic as follows. Note that the task is about how relevant to the 
+topic the document is.
+
+() Relevant. A relevant document for the topic.
+() Not relevant. The document is not good because it doesn't contain any
+   relevant information.

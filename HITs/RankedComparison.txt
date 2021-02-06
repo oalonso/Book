@@ -1,0 +1,17 @@
+Which search result is better?
+
+Please take a look the following 2 search results for the given query and
+let us know which one is better.
+
+Query: [$QUERY$]
+
+Search engine A       Search engine B
+
+[$SearchResultsFromA$] [$SearchResultsFromB$]
+
+Based on the information presented above, which result is better for the 
+query [$QUERY$]?
+
+() A is better.
+() B is better.
+() They are the same.
